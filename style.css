@@ -1,0 +1,62 @@
+.img{
+    background-image: url(bgimg.jpg);
+    background-size: 100%;
+    height: 57em;
+    padding-top: 8em
+}
+.img1{
+    background-position: center center;
+    height: 100vh;
+    padding-top: 8em;
+}
+.name-home{
+    color: maroon;
+    font-size: 55px;
+}
+.home-head{
+   font-size: 2.50rem;
+   color: #fbf7f7;
+}
+.about-img{
+    padding: 15px;
+    background-color: #656161;
+    width: 400px;
+    position: absolute;
+    top: 20px;
+    left: -10px;
+    margin-top: 60px;
+}
+.nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.about-hed{
+    font-size: 2.50rem;
+    font-weight: 900;
+    color: black
+}
+.about-name{
+    font-size: 1.50em;
+    margin-top: 110px;
+}
+.about-p{
+    padding-left: px;
+    color: #b56a6a;
+}
+.media{
+    padding: 6px 0;
+    line-height: normal;
+    display: flex;
+    align-items: flex-start;
+}
+.about-label{
+    width: 80px;
+}
+.about{
+    height: 500px;
+}
